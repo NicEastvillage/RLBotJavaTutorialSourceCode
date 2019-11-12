@@ -1,13 +1,14 @@
 # RLBot Java Tutorial Source Code
 
+[TUTORIAL](https://www.youtube.com/playlist?list=PL0Chr9HhL2DQijgJ4b4ho4pBpxFfHXP0m)
+
 This repository contains the source code for Eastvillage's RLBot Java tutorial. The tutorial covers the basics of RLBot how to make your first bot.
 
 If you have questions, feedback, or comments on the tutorial, hit me up on Discord, `Eastvillage#2628`. You can find me on the [RLBot Discord server](https://discord.gg/bS98QEt).
 
-***NOTE:** Please do not submit the tutorial bot to tournaments or claim it as your own unless you have made significant changes to it!*
+***NOTE:** Please do not submit the tutorial bot to tournaments or claim it as your own unless you have made significant changes to it! ([Community guidelines](https://github.com/RLBot/RLBot/wiki/Community-Guidelines#the-fork-rule))*
 
 **Important links:**
-- [Tutorial playlist](https://www.youtube.com/playlist?list=PL0Chr9HhL2DQijgJ4b4ho4pBpxFfHXP0m)
 - [RLBot website](https://www.rlbot.org/)
 - [JavaExampleBot](https://github.com/RLBot/RLBotJavaExample)
 - [RLBot wiki](https://github.com/RLBot/RLBot/wiki), and notable sub-sites:
@@ -19,7 +20,7 @@ If you have questions, feedback, or comments on the tutorial, hit me up on Disco
   - [Game-state manipulation](https://github.com/RLBot/RLBot/wiki/Manipulating-Game-State)
 - [RLBot framework](https://github.com/RLBot/RLBot)
 - [chip's math notes](https://samuelpmish.github.io/notes/RocketLeague/)
-- [rlbottraining](https://www.youtube.com/playlist?list=PL6LKXu1RlPdxh9vxmG1y2sghQwK47_gCH). Custom exercises (unit tests) for bots
+- [RLBotTraining](https://www.youtube.com/playlist?list=PL6LKXu1RlPdxh9vxmG1y2sghQwK47_gCH). Custom exercises (unit tests) for bots
 
 ## Episodes
 
