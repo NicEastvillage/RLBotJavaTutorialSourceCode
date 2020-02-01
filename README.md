@@ -1,6 +1,6 @@
 # RLBot Java Tutorial Source Code
 
-[TUTORIAL](https://www.youtube.com/playlist?list=PL0Chr9HhL2DQijgJ4b4ho4pBpxFfHXP0m)
+<a href="https://www.youtube.com/playlist?list=PL0Chr9HhL2DQijgJ4b4ho4pBpxFfHXP0m" style="size=2.2em">TUTORIAL</a>
 
 This repository contains the source code for Eastvillage's RLBot Java tutorial. The tutorial covers the basics of RLBot how to make your first bot.
 
@@ -56,28 +56,32 @@ If you have questions, feedback, or comments on the tutorial, hit me up on Disco
 - Making `MoveToPointState` use local coordinates to get down from wall
 - Making `MoveToPointState` only boost when going towards the target
 
+**Episode 5** - Dodges
+
+- Talk about how RLBot works in frames/ticks and how to make sequential maneuvers
+- Making a `Manuever` interface
+- Making a dodge for `KickoffState` and `MoveToPointState`
+
 ### Planned Episodes
 
 *Note: These are just ideas for episodes and their order may not be exactly as below.*
-
-**Episode ?** - Appearance and Opponent
-
-- Customizing the bot's appearance
-- Making files for a Psyonix Allstar opponent
-- Showing how to play against other bots
-
-**Episode ?** - Dodging and Maneuvers Over Time
-
-- Talk about how RLBot works in frames/ticks
-- Making an abstract `Manuever` class (derive from State maybe)
-- Making a simple dodge for `KickoffState`
 
 **Episode ?** - Better Movement
 
 - Introducing handbraking and turn radius (and "can to faster" option maybe?)
 - Renaming `AtbaState` to `ChaseBallState` since it is not just Atba anymore
 
+**Episode ?** - Simple Strategy and shoot maneuver
+
+- Making it only chase the ball when on the correct side of the ball and retreat to own goal otherwise
+- Adding a simple `ShotManeuver`
+
 **Episode ?** - Utility Systems
 
 - Explaination of utility systems and why state machines doesn't scale
 - Implementing a simple utility system
+
+**Episode ?** - Physics and Predictions
+
+- Adding methods for predicting ball movement
+- Making it consider where and when the ball lands instead for driving under the ball
