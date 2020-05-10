@@ -62,6 +62,13 @@ If you have questions, feedback, or comments on the tutorial, hit me up on Disco
 - Making a `Manuever` interface
 - Making a dodge for `KickoffState` and `MoveToPointState`
 
+**Episode 6** - Rendering and Ball Prediction
+
+- Deep dive into the renderers
+- Making our own `SmartRenderer` with more functions
+- Drawing ball prediction
+- Using ball prediction to find where and when to hit the ball
+
 ### Planned Episodes
 
 *Note: These are just ideas for episodes and their order may not be exactly as below.*
@@ -81,7 +88,8 @@ If you have questions, feedback, or comments on the tutorial, hit me up on Disco
 - Explaination of utility systems and why state machines doesn't scale
 - Implementing a simple utility system
 
-**Episode ?** - Physics and Predictions
+**Episode ?** - Aerials
 
-- Adding methods for predicting ball movement
-- Making it consider where and when the ball lands instead for driving under the ball
+- Building aerial controller
+- Making a recover manuever
+- Making an aerial manuever
